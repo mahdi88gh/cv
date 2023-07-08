@@ -5,7 +5,7 @@ This is a simple project for making [CV](https://en.wikipedia.org/wiki/Curriculu
 - Support for multiple themes (coming soon)
 
 ## Screenshots
-![Screenshot 1](img/demo.png)
+![Screenshot 1](/img/cvform.png)
 
 
 Copyright (C) *2023* [Mehdi Gharebaghi](mailto:mehdisdfsdf@gmail.com) 
